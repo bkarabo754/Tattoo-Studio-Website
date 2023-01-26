@@ -55,9 +55,9 @@ export const heroData = {
 export const aboutData = {
   title: 'My Story:',
   subtitle1:
-    'In velit arcu posuere integer. Dolor sit amet, consectetur nun adipiscing elit. Duis porttitor massa tellus hac vel ante sit sed scelerisque praesent duis volutpat laoreet.',
+    'I am a volunteer EMT, and it is what I was born to do. I love being an EMT more than I ever thought it was physically possible to love something.',
   subtitle2:
-    'Nisl, sit molestie commodo congue. Etiam lectus risus in amet. Commodo molestie fames etiam aenean sed. Pellentesque et venenatis amet, tellus hac vel adipiscing sit. Placerat vitae nisl viverra faucibus tincidunt habitasse amet. Nunc, velit nunc, scelerisque imperdiet nunc.',
+    'I felt that a lion would help represent that inner beast. I got a side view because that way, it always looks like its walking with me—that the lion is me.',
   btnText: 'Know more',
   btnIcon: <IoMdArrowForward />,
 };
