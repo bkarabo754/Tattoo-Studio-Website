@@ -136,7 +136,7 @@ export const testimonialData = [
   {
     quoteImg: QuoteImg,
     message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam culpa asperiores officia natus dignissimos autem possimus molestias aperiam?',
+      'Beautiful tattoo and I love your message as to why you got it and your faith. You are a strong woman and this story is a beautiful one. Thanks for sharing!',
     name: 'Douglas Hane',
     occupation: 'Tattoo Artist',
   },
