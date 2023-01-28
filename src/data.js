@@ -148,7 +148,7 @@ export const contactData = {
     {
       title: 'LA office',
       subtitle:
-        'In velit arcu posuere integer sit amet, consectetur nun adipiscing elit. Duis porttitor massa tellus',
+        'The easiest way to get in touch with us is by using this form. We look forward to hearing from you.',
       address: {
         icon: <FaMapMarkerAlt />,
         name: '784 Norman Street, Los Angeles',
@@ -166,7 +166,7 @@ export const contactData = {
     {
       title: 'NYC office',
       subtitle:
-        'Sit amet, consectetur nun in velit arcu posuere integer. Adipiscing elit duis porttitor massa tellus',
+        'Lets Get Social, thanks for liking, following & supporting The Void Tattoo.',
       address: {
         icon: <FaMapMarkerAlt />,
         name: '1630 Elm Drive, New York City',
