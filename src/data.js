@@ -159,7 +159,7 @@ export const contactData = {
       },
       email: {
         icon: <FaEnvelope />,
-        address: 'contact@yourcompany.com',
+        address: 'contact@voidtattoo.com',
       },
       link: 'Get location',
     },
@@ -177,7 +177,7 @@ export const contactData = {
       },
       email: {
         icon: <FaEnvelope />,
-        address: 'contact@yourcompany.com',
+        address: 'contact@voidtattoo.com',
       },
       link: 'Get location',
     },
@@ -194,7 +194,7 @@ export const footerData = {
   about: {
     title: 'About void tattoo',
     subtitle:
-      'Sit amet, consectetur nun in velit arcu posuere integer. Adipiscing elit duis porttitor massa tellus',
+      'We believe that getting a tattoo should be safe and easy. That’s why we strive to make the process of finding a quality artist a great experience',
     address: {
       icon: <FaMapMarkerAlt />,
       name: '1630 Elm Drive, New York City',
@@ -205,7 +205,7 @@ export const footerData = {
     },
     email: {
       icon: <FaEnvelope />,
-      address: 'contact@yourcompany.com',
+      address: 'contact@voidtattoo.com',
     },
   },
   links: {
@@ -229,7 +229,7 @@ export const footerData = {
   newsletter: {
     title: 'Newsletter',
     subtitle:
-      'Elit duis porttitor massa tellus nun in velit arcu posuere integer.',
+      'Enter your email and we will send you our weekly newsletter.',
     form: {
       placeholder: 'Your email address',
       icon: <FiSend />,
